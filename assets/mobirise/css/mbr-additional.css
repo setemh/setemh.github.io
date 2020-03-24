@@ -1734,61 +1734,6 @@ section.lazy-placeholder:after {
 .cid-rU0uNIX05J .mbr-section-title {
   color: #ffffff;
 }
-.cid-rU0wcK3yg7 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(45deg, #0f7699, #232323);
-}
-.cid-rU0wcK3yg7 .list-group-item {
-  padding: .75rem 3.25rem;
-}
-.cid-rU0wcK3yg7 .plan {
-  word-break: break-word;
-  position: relative;
-  max-width: 300px;
-  padding-right: 0;
-  padding-left: 0;
-  color: #767676;
-}
-.cid-rU0wcK3yg7 .plan .list-group-item {
-  position: relative;
-  -webkit-justify-content: center;
-  justify-content: center;
-  border: 0;
-}
-.cid-rU0wcK3yg7 .plan .list-group-item::after {
-  position: absolute;
-  bottom: 0;
-  left: 20%;
-  width: 60%;
-  height: 2px;
-  content: "";
-  background-color: #eaeaea;
-}
-.cid-rU0wcK3yg7 .plan .list-group-item:last-child::after {
-  display: none;
-}
-.cid-rU0wcK3yg7 .plan-header {
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-.cid-rU0wcK3yg7 .plan-header,
-.cid-rU0wcK3yg7 .plan-body {
-  background-color: #fff;
-}
-.cid-rU0wcK3yg7 .price-figure {
-  font-weight: 700;
-  color: #232323;
-}
-.cid-rU0wcK3yg7 .price-value {
-  font-weight: 700;
-  vertical-align: top;
-}
-@media (max-width: 550px) {
-  .cid-rU0wcK3yg7 .price-figure {
-    font-size: 4.25rem;
-  }
-}
 .cid-rU0wavoi9T {
   padding-top: 60px;
   padding-bottom: 60px;
