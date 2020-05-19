@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: setemh.github.io
+Token: 7be5c6ad843ddc7eb19a928dad259912914fd425dc3ddda6507489db0cdba8aa
